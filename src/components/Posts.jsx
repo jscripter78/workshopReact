@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import User from './User';
 import InstaService from '../services/instaservice';
-// import InstaService from './instaservice';
 import ErrorMessage from './ErrorMessage';
 
 export default class Posts extends Component {
